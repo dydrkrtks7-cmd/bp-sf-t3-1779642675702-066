@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[AI트렌드]]></title>
+  <link>https://bp-sf-t3-1779642675702-066.netlify.app</link>
+  <description><![CDATA[AI트렌드 - 강남 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 14:39:37 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 14:39:37 GMT</lastBuildDate>
+  <atom:link href="https://bp-sf-t3-1779642675702-066.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://bp-sf-t3-1779642675702-066.netlify.app/posts/field_note-002-18v9w9z.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-066.netlify.app/posts/field_note-002-18v9w9z.html</guid>
+      <description><![CDATA[현대 LLM 디버깅의 깊은 숨겨진 패턴: RoPE theta 조정에 따른 Perplexity 변화 분석 ## 포스트 메타정보포스트 기획 테마: 강남 셔츠룸 현장에서 놓치기 쉬운 포인트를 기록해봤다 백링크 지시: 본문 내러티브 속에서 다음 링크를 자연스러운 발견으로 녹여]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[강남 셔츠룸 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
+      <link>https://bp-sf-t3-1779642675702-066.netlify.app/posts/review-001-18v9w9z.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-066.netlify.app/posts/review-001-18v9w9z.html</guid>
+      <description><![CDATA[제목: 창작한 제목: "Superset RC3 삭제의 실질적 이유와 Redis OOM 증가를 밝히다" 아, 진짜... Apache Superset 2.0 릴리스 전에 PyPI에서 삭제된 RC3 빌드의 취약점과 삭제된 실제 이유를 살펴보자. 이 이야기는 SRE 엔지니어로]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
